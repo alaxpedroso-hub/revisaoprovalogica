@@ -9,8 +9,12 @@
 }
 
 .navegacao {
-    background-color: chartreuse;
+    background-color: rgb(230, 6, 250);
 }
-.rodape {
+.secao {
     background-color: darkred;
+}
+
+.rodape {
+    background-color: blue;
 }
